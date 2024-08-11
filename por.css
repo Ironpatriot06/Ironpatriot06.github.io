@@ -690,7 +690,7 @@ button:active {
     position: relative;
     /* left:130px; */
     padding: 0px 170px;
-    top: -110px;
+    top: -120px;
     font-size: 45px;
     font-family: "Oswald", sans-serif;
     font-optical-sizing: auto;
@@ -719,8 +719,8 @@ button:active {
 .b {
     position: relative;
     /* left:130px; */
-    padding: 0px 180px;
-    top: -125px;
+    padding: 0px 170px;
+    top: -140px;
     font-size: 45px;
     font-family: "Oswald", sans-serif;
     font-optical-sizing: auto;
