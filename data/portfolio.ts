@@ -20,6 +20,7 @@ export const profile = {
   headline: "Building software systems across AI, infrastructure, and developer tooling.",
   email: "ratishkapoor5@gmail.com",
   github: "https://github.com/Ironpatriot06",
+  leetcode: "https://leetcode.com/u/ratishkapoor5/",
   linkedin: "https://www.linkedin.com/in/ratishkapoor/",
   resume: "https://drive.google.com/file/d/1dsjVSB8W9hlCOiFf-m3qCXgB7l_q5Jp7/view?usp=sharing"
 };

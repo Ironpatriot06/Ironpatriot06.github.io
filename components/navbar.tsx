@@ -32,6 +32,13 @@ export function Navbar() {
           <SocialLink href={profile.linkedin} label="LinkedIn">
             <Linkedin className="h-4 w-4" />
           </SocialLink>
+          <SocialLink href={profile.leetcode} label="LeetCode">
+            <img
+              src="/leetcode.svg"
+              alt="LeetCode"
+              className="h-4 w-4"
+            />
+          </SocialLink>
         </div>
 
         <button

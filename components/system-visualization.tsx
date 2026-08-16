@@ -13,7 +13,7 @@ const nodes = [
 
 export function SystemVisualization() {
   return (
-    <div className="relative min-h-[360px] overflow-hidden rounded-lg border border-line bg-panel p-4 shadow-soft">
+    <div className="relative min-h-[530px] overflow-hidden rounded-lg border border-line bg-panel p-4 shadow-soft">
       <div className="absolute inset-0 bg-[linear-gradient(rgba(255,255,255,0.045)_1px,transparent_1px),linear-gradient(90deg,rgba(255,255,255,0.045)_1px,transparent_1px)] bg-[size:32px_32px]" />
       <svg className="absolute inset-0 h-full w-full" role="img" aria-label="Architecture flow from request to API, database, external service, and AI processing">
         <defs>

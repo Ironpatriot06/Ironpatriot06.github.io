@@ -15,6 +15,7 @@ export function Contact() {
         <ContactCard label="Email" value={profile.email || "Not available in source material"} icon={<Mail className="h-5 w-5" />} href={profile.email ? `mailto:${profile.email}` : ""} />
         <ContactCard label="GitHub" value={profile.github || "Not available in source material"} icon={<Github className="h-5 w-5" />} href={profile.github} />
         <ContactCard label="LinkedIn" value={profile.linkedin || "Not available in source material"} icon={<Linkedin className="h-5 w-5" />} href={profile.linkedin} />
+        
       </div>
     </Section>
   );
